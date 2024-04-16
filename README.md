@@ -1,0 +1,1 @@
+Created Inteective Dashboards to track and analyze online sales. Used complex paramters to drill down in worksheet and customizations using filters and slicers. Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visulatizations.
